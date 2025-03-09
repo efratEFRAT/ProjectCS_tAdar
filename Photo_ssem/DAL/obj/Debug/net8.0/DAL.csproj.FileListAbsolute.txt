@@ -1,0 +1,44 @@
+H:\פרויקט C#\PhotoManagement-C-\DAL\bin\Debug\net8.0\DAL.deps.json
+H:\פרויקט C#\PhotoManagement-C-\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+H:\פרויקט C#\PhotoManagement-C-\DAL\bin\Debug\net8.0\DAL.dll
+H:\פרויקט C#\PhotoManagement-C-\DAL\bin\Debug\net8.0\DAL.pdb
+H:\פרויקט C#\PhotoManagement-C-\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+H:\פרויקט C#\PhotoManagement-C-\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט C#\PhotoManagement-C-\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+H:\פרויקט C#\PhotoManagement-C-\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+H:\פרויקט C#\PhotoManagement-C-\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+H:\פרויקט C#\PhotoManagement-C-\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+H:\פרויקט C#\PhotoManagement-C-\DAL\obj\Debug\net8.0\DAL.dll
+H:\פרויקט C#\PhotoManagement-C-\DAL\obj\Debug\net8.0\refint\DAL.dll
+H:\פרויקט C#\PhotoManagement-C-\DAL\obj\Debug\net8.0\DAL.pdb
+H:\פרויקט C#\PhotoManagement-C-\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+H:\פרויקט C#\PhotoManagement-C-\DAL\obj\Debug\net8.0\ref\DAL.dll
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\DAL\bin\Debug\net8.0\DAL.deps.json
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\DAL\bin\Debug\net8.0\DAL.dll
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\DAL\bin\Debug\net8.0\DAL.pdb
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\DAL\obj\Debug\net8.0\DAL.dll
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\DAL\obj\Debug\net8.0\refint\DAL.dll
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\DAL\obj\Debug\net8.0\DAL.pdb
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\DAL\obj\Debug\net8.0\ref\DAL.dll
+H:\Photo_ssem\DAL\bin\Debug\net8.0\DAL.deps.json
+H:\Photo_ssem\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+H:\Photo_ssem\DAL\bin\Debug\net8.0\DAL.dll
+H:\Photo_ssem\DAL\bin\Debug\net8.0\DAL.pdb
+H:\Photo_ssem\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+H:\Photo_ssem\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\Photo_ssem\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+H:\Photo_ssem\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+H:\Photo_ssem\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+H:\Photo_ssem\DAL\obj\Debug\net8.0\DAL.dll
+H:\Photo_ssem\DAL\obj\Debug\net8.0\refint\DAL.dll
+H:\Photo_ssem\DAL\obj\Debug\net8.0\DAL.pdb
+H:\Photo_ssem\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+H:\Photo_ssem\DAL\obj\Debug\net8.0\ref\DAL.dll

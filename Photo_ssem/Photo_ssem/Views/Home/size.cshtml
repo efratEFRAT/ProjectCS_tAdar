@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "size";
+}
+<h1>@ViewData["Title"]</h1>
+<form method="post" asp-controller="Home" asp-action="SaveSelection">
+@* <form method="post" asp-action="SaveSelection"> *@
+    <!-- ציין את הפעולה בקונטרולר שתשמור את הבחירות -->
+    <div>
+        <label>
+            <input type="radio" name="size" value="Small" /> Small
+        </label>
+    </div>
+    <div>
+        <label>
+            <input type="radio" name="size" value="Medium" /> Medium
+        </label>
+    </div>
+    <div>
+        <label>
+            <input type="radio" name="size" value="Large" /> Large
+        </label>
+    </div>
+    <button type="submit">Submit</button> <!-- כפתור לשליחת הטופס -->
+</form>
+
+
+//תצוגת השם(לבינתיים)
+
+@if (ViewData["Name"] != null && ViewData["Phone"] != null)
+{
+    <p>Name: @ViewData["Name"]</p>
+    <p>Phone: @ViewData["Phone"]</p>
+}
+
+@if (ViewData["Size"] != null)
+{
+    <p>size: @ViewData["Size"]</p>
+}

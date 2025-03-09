@@ -1,0 +1,33 @@
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\BLL\bin\Debug\net8.0\BLL.deps.json
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\BLL\bin\Debug\net8.0\BLL.dll
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\BLL\bin\Debug\net8.0\BLL.pdb
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\BLL\bin\Debug\net8.0\DAL.dll
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\BLL\bin\Debug\net8.0\DAL.pdb
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\BLL\obj\Debug\net8.0\BLL.dll
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\BLL\obj\Debug\net8.0\refint\BLL.dll
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\BLL\obj\Debug\net8.0\BLL.pdb
+H:\פרויקט C#\מירי ושיפי איחוד א\PhotoManagement\BLL\obj\Debug\net8.0\ref\BLL.dll
+H:\Photo_ssem\BLL\bin\Debug\net8.0\BLL.deps.json
+H:\Photo_ssem\BLL\bin\Debug\net8.0\BLL.dll
+H:\Photo_ssem\BLL\bin\Debug\net8.0\BLL.pdb
+H:\Photo_ssem\BLL\bin\Debug\net8.0\DAL.dll
+H:\Photo_ssem\BLL\bin\Debug\net8.0\DAL.pdb
+H:\Photo_ssem\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+H:\Photo_ssem\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\Photo_ssem\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+H:\Photo_ssem\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+H:\Photo_ssem\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+H:\Photo_ssem\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+H:\Photo_ssem\BLL\obj\Debug\net8.0\BLL.dll
+H:\Photo_ssem\BLL\obj\Debug\net8.0\refint\BLL.dll
+H:\Photo_ssem\BLL\obj\Debug\net8.0\BLL.pdb
+H:\Photo_ssem\BLL\obj\Debug\net8.0\ref\BLL.dll
+H:\Photo_ssem\BLL\bin\Debug\net8.0\BLL.runtimeconfig.json
+H:\Photo_ssem\BLL\obj\Debug\net8.0\BLL.genruntimeconfig.cache
